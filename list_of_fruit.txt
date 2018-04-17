@@ -4,4 +4,7 @@ mango
 orange
 nectarine
 banana
+dragon fruit
+jackfruit
+plantains
 
