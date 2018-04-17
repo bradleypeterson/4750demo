@@ -2,6 +2,6 @@ papaya
 durian
 mango
 orange
-tangerine
+tangelo
 banana
 
