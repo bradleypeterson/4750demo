@@ -2,6 +2,7 @@ Brad Peterson
 Superman
 Batman
 Person 3
+Mr. Rogers
 Person 4
 Bart
 Homer
